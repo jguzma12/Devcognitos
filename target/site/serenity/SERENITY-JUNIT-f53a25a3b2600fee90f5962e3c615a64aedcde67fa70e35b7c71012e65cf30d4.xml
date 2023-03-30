@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Crear una nota de texto enriquecido con letra en negrita" skipped="0" tests="1" time="12.03" timestamp="2023-03-30 11:05:17"><testcase name="Crear una nota de texto enriquecido con letra en negrita"><failure message="&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+co.com.devco.stepdefinitions.NuevaNotaStepDefinitions.yoVeoUnaNotaEnNegrilla(NuevaNotaStepDefinitions.java:43)&#13;
+✽.Yo veo una nota en negrilla(src/test/resources/features/nuevanota.feature:12)&#13;
+</system-err></testcase></testsuite>
